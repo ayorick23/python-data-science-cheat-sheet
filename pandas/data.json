@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Dereck Mendez",
+            "age": 25,
+            "email": "dereck.mendez@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Alejandra Martinez",
+            "age": 28,
+            "email": "ale.martinez@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Cristian Rodriguez",
+            "age": 42,
+            "email": "cristian.rod@example.com"
+        }
+    ]
+}
