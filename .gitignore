@@ -3,3 +3,7 @@
 *.json
 *.xlsx
 *.parquet
+*.jpg
+*.pdf
+*.png
+*.svg
