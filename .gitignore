@@ -7,3 +7,5 @@
 *.pdf
 *.png
 *.svg
+*.npy
+*.npz
