@@ -12,7 +12,19 @@ Este **Python Data Science Cheat Sheet!** tiene como objetivo simplificar el apr
 
 ## 🚀 ¿Qué encontrarás aquí?
 
--
+### Librerías que abarcará este Repositorio
+
+- [x] NumPy
+- [x] Pandas
+- [x] Matplotlib
+- [ ] Seaborn
+- [ ] SciPy
+- [ ] SymPy
+- [ ] statsmodels
+- [ ] Scikit-Learn
+- [ ] Keras
+- [ ] Tensorflow
+- [ ] Pytorch
 
 ## 📂 Estructura del Repositorio
 
@@ -22,20 +34,22 @@ El repositorio está organizado por bibliotecas y temas centrales de ciencia de 
 python-data-science-cheat-sheet/
 ├── README.md
 ├── 01_numpy/
-│   ├── .ipynb
-│   ├── .ipynb
-│   ├── .ipynb
+│   ├── 01_array_creation.ipynb
+│   ├── 02_input_and_output.ipynb
+│   ├── 03_inspecting_arrays.ipynb
 │   └── ...
 │
 ├── 02_pandas/
-│   ├──
-│   ├──
-│   └──
+│   ├── 01_series_and_dataframes.ipynb
+│   ├── 02_data_upload.ipynb
+│   ├── 03_data_exploration.ipynb
+│   └── ...
 │
 ├── 03_matplotlib/
-│   ├──
-│   ├──
-│   └──
+│   ├── 01_introduction.ipynb
+│   ├── 02_basic_plots.ipynb
+│   ├── 03_customization_and_styles.ipynb
+│   └── ...
 │
 ├── 04_seaborn/
 │   ├──
@@ -73,7 +87,7 @@ Para sacarle el máximo provecho a este **Python Data Science Cheat Sheet**, sig
    cd 01_numpy/
    ```
 
-4. **Revisa y ejecuta los ejemplos de Jupiter Notebooks:** Cada archivo .ipynb contiene un ejemplo práctico del concepto. Puedes abrirlo para ver el código o ejecutarlo directamente desde tu terminal (asegúrate de tener Python y las bibliotecas necesarias instaladas).
+4. **Revisa y ejecuta los ejemplos de Jupiter Notebooks:** Cada archivo `.ipynb` contiene un ejemplo práctico del concepto. Puedes abrirlo para ver el código o ejecutarlo directamente desde tu terminal (asegúrate de tener Python y las bibliotecas necesarias instaladas).
 
    ```bash
    cat 01_array_creation.ipynb
