@@ -1,8 +1,22 @@
-# <img width="35" height="35" src="https://img.icons8.com/?size=100&id=83IWFlQhyRNZ&format=png&color=000000" alt="data-science"> Python Data Science Cheat Sheet
+# <img width="30" height="30" src="https://img.icons8.com/?size=100&id=83IWFlQhyRNZ&format=png&color=000000" alt="data-science"> **Python Data Science Cheat Sheet**
 
 ¡Bienvenido/a a **Python Data Science Cheat Sheet!** Este repositorio es tu guía rápida y práctica para las herramientas y conceptos esenciales de Python para la ciencia de datos. Tanto si te estás iniciando en la ciencia de datos como si necesitas un repaso rápido, aquí encontrarás información concisa y útil.
 
 Aquí encontrarás una colección organizada de bibliotecas, funciones y flujos de trabajo clave de Python, comúnmente utilizados en la manipulación, el análisis, la visualización y el aprendizaje automático de datos, cada uno con explicaciones claras y ejemplos prácticos de código.
+
+## Tabla de Contenidos
+
+- [ **Python Data Science Cheat Sheet**](#-python-data-science-cheat-sheet)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [🌎 Acerca de](#-acerca-de)
+  - [🚀 ¿Qué encontrarás aquí?](#-qué-encontrarás-aquí)
+    - [Librerías que abarcará este Repositorio](#librerías-que-abarcará-este-repositorio)
+  - [📂 Estructura del Repositorio](#-estructura-del-repositorio)
+  - [📝 ¿Cómo Usarlo?](#-cómo-usarlo)
+  - [🤝 Contribuciones](#-contribuciones)
+  - [🫂 Referencias y Agradecimientos](#-referencias-y-agradecimientos)
+  - [📃 Licencia](#-licencia)
+  - [✉️ Contáctame](#️-contáctame)
 
 ## 🌎 Acerca de
 
@@ -127,8 +141,8 @@ Este repositorio se ha creado recopilando y sintetizando información de diversa
   - [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html)
 - **Documentación de Scikit-Learn:** La fuente oficial de documentación de la librería Scikit-Learn.
   - [Scikit-Learn](https://scikit-learn.org/stable/)
-- **Documentación de Tensorflow:**
-  - [Tensorflow Documentation]()
+- **Documentación de Tensorflow:** La fuente oficial de documentación de la librería Tensorflow.
+  - [Tensorflow Documentation](https://www.tensorflow.org/api_docs)
 
 ¡Agradezco a todos estos recursos por su invaluable contribución al conocimiento de cada una de estas librerías!
 
